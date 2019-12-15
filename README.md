@@ -53,9 +53,10 @@
 #### 并查集题目  
 | # | Title | Solution | Difficulty |
 |:-:| :---: | :------: | :--------: |
-|684|[Redundant Connection](https://github.com/grandyang/LeetCode-All-In-One/issues/684)|37.40%|Medium|
+|684|[Redundant Connection](https://github.com/xcTorres/LeetCode/blob/master/684.%20Redundant%20Connection.md)|37.40%|Medium|
 
 
 #### 深度优先搜索dfs
 | # | Title | Solution | Difficulty |
 |:-:| :---: | :------: | :--------: |
+|200|[Number of Islands](https://github.com/xcTorres/LeetCode/blob/master/200.%20Number%20of%20Islands.md)|21.90%|Medium|
