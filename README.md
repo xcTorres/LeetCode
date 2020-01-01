@@ -61,3 +61,4 @@
 |:-:| :---: | :------: | :--------: |
 |200|[Number of Islands](https://github.com/xcTorres/LeetCode/blob/master/200.%20Number%20of%20Islands.md)|21.90%|Medium|
 |130|[Surrounded Regions](https://github.com/xcTorres/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|14.60%|Medium|
+|4|[Median of Two Sorted Arrays](https://github.com/xcTorres/LeetCode/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)|17.40%|Hard|
