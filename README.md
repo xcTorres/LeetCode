@@ -50,6 +50,12 @@
 |300|[Longest Increasing Subsequence](https://github.com/xcTorres/LeetCode/blob/master/300.%20Longest%20Increasing%20Subsequence.md)|31.50%|Medium|
 |516|[Longest Palindromic Subsequence](https://github.com/xcTorres/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)|42.00%|Medium|
 
+#### 背包问题
+| # | Title | Solution | Difficulty |
+|:-:| :---: | :------: | :--------: |
+|416|[Partition Equal Subset Sum](https://github.com/xcTorres/LeetCode/blob/master/416.%20Partition%20Equal%20Subset%20Sum.md)|36.80%|Medium|
+
+
 #### 并查集题目  
 | # | Title | Solution | Difficulty |
 |:-:| :---: | :------: | :--------: |
