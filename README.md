@@ -31,6 +31,12 @@
 |2|[Add Two Numbers](https://github.com/xcTorres/LeetCode/blob/master/2.%20Add%20Two%20Numbers.md)|21.10%|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/xcTorres/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)|27.10%|Easy|
 
+#### 栈题目
+
+| # | Title | Solution | Difficulty |
+|20|[Valid Parentheses](https://github.com/grandyang/LeetCode-All-In-One/issues/20)|26.50%|Easy|
+|32|[Longest Valid Parentheses](https://github.com/grandyang/LeetCode-All-In-One/issues/32)|20.90%|Hard|
+
 #### 全排列题目  
 
 | # | Title | Solution | Difficulty |
